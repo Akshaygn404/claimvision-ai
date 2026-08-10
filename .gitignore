@@ -31,3 +31,6 @@ runs/
 
 # Temporary files
 *.tmp
+
+# Dataset
+datasets/
